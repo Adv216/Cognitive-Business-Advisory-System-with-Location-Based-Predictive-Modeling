@@ -95,10 +95,6 @@ Project Management | Trello |
 
 ---
 
-## 🧑‍🎓 Academic Context
-
-This project is developed as a **course project for CS2311 – Software Engineering**  
-**Vishwakarma Institute of Technology**
 
 ---
 
